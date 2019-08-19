@@ -16,7 +16,7 @@ public class UseCase1Login extends BaseTest{
 		
 		String expected=expectedWishText("Norma");  //Method in TestUtilities class
 		
-		String wishtext=home.getwishText();   //
+		String wishtext=home.getwishText();   // get Greetings text
 		
 		String usertext=home.getloginUser();
 		
