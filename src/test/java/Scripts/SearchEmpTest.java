@@ -26,7 +26,7 @@ public class SearchEmpTest extends BaseTest{
 		
 		srch.clickEmployee();
 		
-		List<WebElement> empList1= srch.getEmpList();
+		List<WebElement> empList1= srch.getEmpList();				//get the Emp List after click User
 		
 		int emplistSize1=empList1.size();
 		
