@@ -1,0 +1,7 @@
+generic\BaseTest.class
+pomPages\SearchUser.class
+generic\IAutoConstants.class
+pomPages\HomePage.class
+pomPages\CreateUserPOM.class
+generic\GetWishText.class
+pomPages\LoginPage.class
